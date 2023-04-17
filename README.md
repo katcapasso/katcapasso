@@ -3,6 +3,7 @@
 I am passionate about data analyst and security software. I've been teaching myself machine learning and n.l.p.
 I love learning. Ask me anything. I'm at an intermediate level! (won't mind leveling up though!)
 Currently working on a company my sisters and I started,that pertains to importing and exporting. I'm working on the import export software that deals with wholesalers and distributors. Working on functionality and inventory logistics. I'm trying my best!
+https://copioustrade.com/
 <!--
 **katcapasso/katcapasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
